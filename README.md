@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL ](https://github.com/kudos2Shef/3-column-preview-card-component)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://kudos2shef.github.io/3-column-preview-card-component/)
 
 ## My process
 
