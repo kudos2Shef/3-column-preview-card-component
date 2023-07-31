@@ -74,7 +74,7 @@ Used media query to make it responsive in different widths of website. Implement
 	border-bottom-right-radius: 10px;
 
 }
-@media (min-width) and (max:width){
+@media (max-width:600px){
 .column-card{
 grid-template-columns:repeat(1,1fr);
 }
