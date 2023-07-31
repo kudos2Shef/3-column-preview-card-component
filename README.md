@@ -24,16 +24,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+- Desktop 1440px
+  ![FireShot Capture 036 - 3 column preview card - 1040px](https://github.com/kudos2Shef/3-column-preview-card-component/assets/16985060/e50207f3-21c2-4f19-b292-ac5eb914f838)
 
-![](./screenshot.jpg)
+- Mobile 375px
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+  ![FireShot Capture 038 - 3 column preview card - 375new](https://github.com/kudos2Shef/3-column-preview-card-component/assets/16985060/4d07f717-df4b-4ae4-a585-84cd1c08bc3e)
 
 ### Links
 
