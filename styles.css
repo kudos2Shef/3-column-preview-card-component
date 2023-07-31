@@ -233,9 +233,9 @@ body{
 	
 }
 
-@media  (min-width:811px) and (max-width:830px){
+@media  (min-width:811px) and (max-width:835px){
 	body{
-		min-height: 105vh;
+		min-height: 100vh;
 
 	}
 	.column-preview{
