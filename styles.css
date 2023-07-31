@@ -150,7 +150,7 @@ body{
 }
 
 
-@media  (min-width:375px) and (max-width:760px){
+@media  (max-width:600px){
 	body{
 		min-height: 245vh;
 
